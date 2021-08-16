@@ -32,7 +32,7 @@ We will use the outcome Bening/Malignant to predict if a new patient has a proba
 
 ***I have introduced a Bivariate Analysis, to reduce the number of redundant features. An in-depth discussion on the role of these features in the prediction should deserve a dedicated article.***
 
-**I hope you find this project useful! Follow along [notebook]() for more!!**
+**I hope you find this project useful! Follow along [notebook](https://github.com/Anuragtsl/ML-Breast_Cancer_Prediction_Using_Logistic_Regression_Self-defined_Functions/blob/main/Breast%20Cancer%20Prediction%20Using%20Logistic%20Regression%20Using%20Self-defined%20Functions.ipynb) for more!!**
 
 # Preview
 
