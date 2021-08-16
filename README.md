@@ -2,7 +2,7 @@
 
 I have created Machine Learning Model With Self-defined Function of Logistic Regression for Breast Cancer Predictions.
 
-In this I've used Python’s Famous libraries like [Numpy](), [Pandas](), [Seaborn](), [Matplotlib](), Data analysis and Model Development.
+In this I've used Python’s Famous libraries like [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Seaborn](https://seaborn.pydata.org/), [Matplotlib](https://matplotlib.org/), Data analysis and Model Development.
 
 I've created Self-defined Logistic Regression Model and performed it onto Breast Cancer data.
 
